@@ -1,7 +1,7 @@
 from stack import Stack
 
 print("\nLet's play Towers of Hanoi!!")
-print(("Make good choices.")
+print("Make good choices.")
 
 #Create the Stacks
 stacks = []
