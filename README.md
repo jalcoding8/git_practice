@@ -1,5 +1,16 @@
 <img width="150" height="150" alt="image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOJTD_Dwtt-Z3P6m-1vi98_hrbDm2iDEid6Q&" />
 
+## Description
+
+###  ***Towers of Hanoi*** is an algorithm that solves a mathematical puzzle involving recursion.
+
+####  The thrust of the problem/project is to move a stack of size-descending disks from one of three rods, rod A, over to Rod C.
+  *  You can only move one disk at a time, starting with the top (smallest) disk on the stack.
+  *  All disks must be moved to Rod C and stacked with smallest disk on top descending to largest disk on bottom.
+  *  The difficulty is that you cannot, in the process, stack a larger disk on top of a smaller disk.
+  *  And you want to be efficient, executing the fewest moves possible.
+  *  This problem is completed in Python but can be done in JavaScript, Ruby, C++, etc...
+
 ## Table of Contents
    *  README.md
    *  resources 
