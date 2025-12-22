@@ -10,7 +10,7 @@
    *  This project uses python3 to explain the logic of the game Towers of Hanoi
    *  The READEME.md includes an image of the game
    *  The README.md utilized the Markdown language syntax
-     
+   *  This project included the use of git commands 
    
 
 ## Technologies
